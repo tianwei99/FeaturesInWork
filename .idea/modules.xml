@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FeaturesInWork.iml" filepath="$PROJECT_DIR$/FeaturesInWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creatPDFFile/creatPDFFile.iml" filepath="$PROJECT_DIR$/creatPDFFile/creatPDFFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email/email.iml" filepath="$PROJECT_DIR$/email/email.iml" />
+    </modules>
+  </component>
+</project>
