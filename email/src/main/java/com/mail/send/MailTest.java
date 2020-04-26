@@ -1,4 +1,4 @@
-package com.ecg.controller;
+package com.mail.send;
  
 import java.io.UnsupportedEncodingException;
 import java.security.GeneralSecurityException;
